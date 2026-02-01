@@ -360,50 +360,10 @@ users/{userId}/
    - Verify all features work
    - Check browser console for errors
 
-## 📸 Screenshots
+ 
+ 
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x500/667eea/ffffff?text=Financial+Dashboard)
 
-### AI Chat Interface
-![AI Chat](https://via.placeholder.com/800x500/764ba2/ffffff?text=AI+Chat+Interface)
-
-### Profile Management
-![Profile](https://via.placeholder.com/800x500/667eea/ffffff?text=Profile+Management)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow existing code style and structure
-- Write meaningful commit messages
-- Test your changes thoroughly
-- Update documentation as needed
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Contact
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-**Project Link:** [https://github.com/yourusername/wealth-management-app](https://github.com/yourusername/wealth-management-app)
-
-**Live Demo:** [https://your-app.vercel.app](https://your-app.vercel.app)
-
----
 
 ## 🙏 Acknowledgments
 
